@@ -171,7 +171,42 @@ div.github a{
     html{
         font-size: 35%;
     }
+
     div.msg-container div.msg{
         font-size: 3rem;
+    }
+
+    div.title{
+        width: 35rem;
+    }
+
+    div.title h1{
+        font-size: 4rem;
+    }
+
+    div.input-msg textarea{
+        width: 45rem;
+        padding: 2rem;
+        font-size: 3rem;
+    }
+
+    div.msg-btn button#sub-msg{
+        padding: .7rem 4rem;
+        font-size: 3rem;
+    }
+
+    div.msg-btn button#cancel-msg{
+        padding: .7rem 4rem;
+        font-size: 3rem;
+    }
+
+    div.add-icon{
+        width: 4rem;
+        height: 4rem;
+        padding: .5rem;
+    }
+    div.add-icon i{
+        font-size: 2.5rem;
+
     }
 }
