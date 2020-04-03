@@ -167,8 +167,8 @@ div.github a{
 
 /* ########## mobile ####### */
 
-@media all and (max-width: 768px){
-    div.msg-container div.msg{
-        width: 25rem;
+@media screen and (max-width: 768px){
+    html{
+        font-size: 45%;
     }
 }
