@@ -164,3 +164,11 @@ div.github a{
 
     }
 }
+
+/* ########## mobile ####### */
+
+@media all and (max-width: 768px){
+    div.msg-container div.msg{
+        width: 25rem;
+    }
+}
